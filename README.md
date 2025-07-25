@@ -8,7 +8,7 @@ During this internship, we will cover:
 These sessions aim to build systematic skills in handling and analyzing omics datasets using statistical and machine learning frameworks.
 All codes, & resources will be organized here for structured, self-paced learning and revision.
 
-Live sessions and recorded lectures will be shared on our YouTube channel. Follow the channel for updates and session recordings.
+All recorded lectures will be shared on our YouTube channel. Follow the channel for updates and session recordings. YouTube Channel: [@AIandBiotech](https://youtube.com/@aiandbiotech?feature=shared)
 
 ## Join Our Discord Channels  
 For course updates, class announcements, and peer discussion, join our Discord channels:  
