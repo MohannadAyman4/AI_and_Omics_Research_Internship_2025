@@ -8,18 +8,33 @@ During this internship, we will cover:
 These sessions aim to build systematic skills in handling and analyzing omics datasets using statistical and machine learning frameworks.
 All codes, & resources will be organized here for structured, self-paced learning and revision.
 
-All recorded lectures will be shared on our YouTube channel. Follow the channel for updates and session recordings. YouTube Channel: [@AIandBiotech](https://youtube.com/@aiandbiotech?feature=shared)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+All lectures will be shared on our YouTube channel. Follow the channel for updates and session recordings. YouTube Channel: [@AIandBiotech](https://youtube.com/@aiandbiotech?feature=shared) 
 
-## Join Our Discord Channels  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Theory Classes  
+#### Class I: Introduction to Machine Learning and Linear Regression [Lecture Recording](https://youtu.be/c00yjmUp8UY?feature=shared)
+
+## Practical Classes  
+#### Class I: R Program Installation & Data Wrangling  [Lecture Recording](https://youtu.be/cxc3lZPQUsI?feature=shared) | [Installation Guide](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/R%20Program%20Installation%20Guide.pdf)
+
+## Task & Assignments 
+#### 1. Install R, RStudio, and RTools on your system.  
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+All materials will be updated throughout the internship to help you follow along with the sessions and complete your tasks efficiently.
+If you have any questions, please reach out via provided Discord community.  
+
+#### Join Our Discord Channels  
 For course updates, class announcements, and peer discussion, join our Discord channels:  
 **#welcome-and-rules:** https://discord.gg/pGmnwhf2Rt  
 **#official-communication:** https://discord.gg/RPjF5S57Xk  
 **#class-announcements:** https://discord.gg/PDVbJvU6  
-**#help:** https://discord.gg/AXbWVm5X
+**#help:** https://discord.gg/AXbWVm5X 
 
-All materials will be updated here throughout the internship to help you follow along with the sessions and complete your tasks efficiently.
-If you have any questions, please reach out via provided Discord community.  
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Follow for more updates and  upcoming courses: 
 
 **AI and Biotechnology/Bioinformatics** 🔗 [LinkedIn](linkedin.com/company/ai-and-biotechnology-bioinformatics) | 📘 [Facebook](https://www.facebook.com/people/AI-and-BiotechnologyBioinformatics/61566611634266/)
