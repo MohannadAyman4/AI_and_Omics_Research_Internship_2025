@@ -5,6 +5,7 @@ During this internship, we will cover:
 - High-dimensional data analysis
 - Machine learning method
 - Genomics data analysis
+  
 These sessions aim to build systematic skills in handling and analyzing omics datasets using statistical and machine learning frameworks.
 All codes, & resources will be organized here for structured, self-paced learning and revision.
 
